@@ -1,1 +1,1 @@
-This is my solution for some tasks on Codewars.
+This is my solutions for some tasks on Codewars.
